@@ -1,0 +1,28 @@
+{
+  "id": "it.dimaggio.bticino.classe300eos",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "BTicino Classe 300EOS"
+  },
+  "description": {
+    "en": "Classe 300EOS with Netatmo (344842 – 344884) is the 2 wires / Wi-Fi handsfree connected video internal unit with built-in Amazon Alexa voice assistant."
+  },
+  "category": [
+    "security"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Oreste Dimaggio",
+    "email": "oreste@dimaggio.it"
+  }
+}
