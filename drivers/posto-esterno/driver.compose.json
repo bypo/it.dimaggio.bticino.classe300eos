@@ -1,0 +1,22 @@
+{
+  "name": {
+    "en": "Posto Esterno"
+  },
+  "class": "camera",
+  "capabilities": [
+    "volume_down",
+    "volume_mute",
+    "volume_up"
+  ],
+  "platforms": [
+    "local"
+  ],
+  "connectivity": [
+    "lan"
+  ],
+  "images": {
+    "small": "{{driverAssetsPath}}/images/small.png",
+    "large": "{{driverAssetsPath}}/images/large.png",
+    "xlarge": "{{driverAssetsPath}}/images/xlarge.png"
+  }
+}
